@@ -1,0 +1,26 @@
+body{
+	width:100%;
+}
+
+
+div{
+	border:1px solid transparent;
+}
+
+
+img{
+	padding:3%;
+	margin:auto;
+	border:auto;
+}
+
+#busqueda{
+	border:0.5px solid gray;
+	padding:2%;
+}
+
+#borde{
+	border:1px solid black;
+	border-radius:10px;
+	padding:2%;
+}

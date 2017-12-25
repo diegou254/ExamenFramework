@@ -1,0 +1,21 @@
+﻿body{
+    background-image: url("../img/paisaje1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}﻿
+
+
+.imagenDiego{
+    align:center;   
+}
+
+
+#redesSociales{
+    border-radius:10px;
+}
+
+#prueba{
+    font-size: 10px;
+    width:60%;
+}
